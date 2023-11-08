@@ -1,4 +1,5 @@
 // Reference: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/freertos.html
+// This code use old method with link_section
 
 use anyhow::Result;
 use esp_idf_sys::{
